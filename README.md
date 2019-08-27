@@ -54,4 +54,4 @@ Ante una gran impotencia y decepción de la política en materia científica de 
 + Dr. Adán José-García (368117)
 + Dra. Abril Armenta Franco (373438)
 + Dr. Eric Eugenio López (289891)
-+ Dra. Ireri Franco
++ Dra. Ireri Betsabe Franco Estrada (371096)
