@@ -24,13 +24,14 @@ No somos adversarios políticos, ni somos miembros activos de partidos con inter
 Por todo lo anteriormente expuesto solicitamos la intervención del presidente **Andrés Manuel López Obrador** y al Secretario de Educación Pública **Esteban Moctezuma Barragán**, para una revisión, entre pares, minuciosa, objetiva y sin represalias de nuestro caso. Que se evalúen nuestras propuestas conforme a los criterios establecidos: **cumplimiento de compromisos, relevancia y pertinencia para entender la realidad nacional**.
 
 Ante una gran impotencia y decepción de la política en materia científica de la actual administración del gobierno federal, exponemos a ustedes nuestro caso solicitando su apoyo para su difusión con el objetivo de obtener una respuesta y resolución a la problemática que estamos viviendo cientos de investigadores mexicanos en diferentes partes del mundo. Esperamos que la exposición de nuestra situación ayude en un futuro corto a toda la comunidad científica que trabaja siempre por el progreso de nuestro país. 
-
+<!---
 ![Gráfica comparativa](Grafica.JPG "Gráfica comparativa")
-
+-->
 ## Fuentes
 
-[Convocatoria 2018](https://www.conacyt.gob.mx/index.php/el-conacyt/convocatorias-y-resultados-conacyt/convocatorias-estancias-posdoctorales-sabaticas-extranjero-1/conv-epe-gest-18)
-[Convocatoria 2019](https://www.conacyt.gob.mx/index.php/el-conacyt/convocatorias-y-resultados-conacyt/convocatorias-estancias-posdoctorales-sabaticas-extranjero-1/conv-epe-19)
++[Convocatoria 2018](https://www.conacyt.gob.mx/index.php/el-conacyt/convocatorias-y-resultados-conacyt/convocatorias-estancias-posdoctorales-sabaticas-extranjero-1/conv-epe-gest-18)
+
++[Convocatoria 2019](https://www.conacyt.gob.mx/index.php/el-conacyt/convocatorias-y-resultados-conacyt/convocatorias-estancias-posdoctorales-sabaticas-extranjero-1/conv-epe-19)
 
 ### Firmantes
 
