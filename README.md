@@ -25,24 +25,27 @@ Por todo lo anteriormente expuesto solicitamos la intervención del presidente *
 
 Ante una gran impotencia y decepción de la política en materia científica de la actual administración del gobierno federal, exponemos a ustedes nuestro caso solicitando su apoyo para su difusión con el objetivo de obtener una respuesta y resolución a la problemática que estamos viviendo cientos de investigadores mexicanos en diferentes partes del mundo. Esperamos que la exposición de nuestra situación ayude en un futuro corto a toda la comunidad científica que trabaja siempre por el progreso de nuestro país. 
 
+
+[I'm an inline-style link](https://www.google.com)
+
 ### Firmantes
 
-Dr. Raúl Uziel Espinal Bustos (171768)	
-Dra. Nelly Arcos Martínez (249770)
-Dra. Rosa Maria Vargas Magaña (253734)	 
-Dra. Marcela Martín del Campo Fierro (302493)
-Dra. María Abigail Jiménez Franco (350809)	
-Dra. Mariana Patricia Cervantes Silva (440823)
-Dra. Adriana Azucena Cortés Gómez (399405) 	
-Dr. Francisco Javier Rivera Paleo (447684)
-Dr. Alejandro Enríquez Cabrera (442797)	
-Dra. Julie Eliene Hernández Salmerón (288058)
-Dr. Silver-Hamill Turren-Cruz (459795)	
-Dra. María Fernanda Pérez Bernal (419307)
-Dr. Alonso Moreno Zuria (485222)	 
-Dr. Carlos Rodrigo Guzmán Durán (210595)
-Dr. Francisco Cuellar Pérez	 
-Dr. Adán José-García (368117)
-Dra. Abril Armenta Franco (373438)
-Dr. Eric Eugenio López (289891)
-Dra. Ireri Franco
++ Dr. Raúl Uziel Espinal Bustos (171768)
++ Dra. Nelly Arcos Martínez (249770)
++ Dra. Rosa Maria Vargas Magaña (253734)	 
++ Dra. Marcela Martín del Campo Fierro (302493)
++ Dra. María Abigail Jiménez Franco (350809)	
++ Dra. Mariana Patricia Cervantes Silva (440823)
++ Dra. Adriana Azucena Cortés Gómez (399405) 	
++ Dr. Francisco Javier Rivera Paleo (447684)
++ Dr. Alejandro Enríquez Cabrera (442797)	
++ Dra. Julie Eliene Hernández Salmerón (288058)
++ Dr. Silver-Hamill Turren-Cruz (459795)	
++ Dra. María Fernanda Pérez Bernal (419307)
++ Dr. Alonso Moreno Zuria (485222)	 
++ Dr. Carlos Rodrigo Guzmán Durán (210595)
++ Dr. Francisco Cuellar Pérez	 
++ Dr. Adán José-García (368117)
++ Dra. Abril Armenta Franco (373438)
++ Dr. Eric Eugenio López (289891)
++ Dra. Ireri Franco
