@@ -25,6 +25,9 @@ Por todo lo anteriormente expuesto solicitamos la intervención del presidente *
 
 Ante una gran impotencia y decepción de la política en materia científica de la actual administración del gobierno federal, exponemos a ustedes nuestro caso solicitando su apoyo para su difusión con el objetivo de obtener una respuesta y resolución a la problemática que estamos viviendo cientos de investigadores mexicanos en diferentes partes del mundo. Esperamos que la exposición de nuestra situación ayude en un futuro corto a toda la comunidad científica que trabaja siempre por el progreso de nuestro país. 
 
+```{r fig-margin, fig.margin=TRUE}
+plot(Grafica)
+```
 
 [I'm an inline-style link](https://www.google.com)
 
