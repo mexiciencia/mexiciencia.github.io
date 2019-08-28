@@ -55,3 +55,4 @@ Ante una gran impotencia y decepción de la política en materia científica de 
 + Dra. Abril Armenta Franco (373438)
 + Dr. Eric Eugenio López (289891)
 + Dra. Ireri Betsabe Franco Estrada (371096)
++ Dra. Andrea Elizabeth Gutiérrez Quezada (298418)
