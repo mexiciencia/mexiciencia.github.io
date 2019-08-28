@@ -1,5 +1,15 @@
 ## Irregularidades en los criterios de evaluación por parte de CONACyT deja sin recursos a más del 60% de los investigadores postdoctorales en el extranjero
 
+## Resumen
+
+Somos un grupo de Investigadores Mexicanos en el Extranjero realizando un Posdoctorado financiado por CONACyT y la institución receptora. Nuestro trabajo consiste en desarrollar proyectos de investigación en universidades internacionales y además, colaborar con programas de posgrado en universidades o centros de investigación en México. La duración del financiamiento posdoctoral generalmente es de 2 años, donde los avances del primer año son evaluados para su renovación a un segundo periodo. La evaluación y aprobación de estos proyectos es realizada por integrantes del Sistema Nacional de Investigadores (SNI).
+
+Este año CONACyT renovó menos del 35% de los proyectos aprobados en el año 2018. La interrupción de estos proyectos afecta directamente a las investigaciones en curso, y también impide continuar colaborando con las universidades en el extranjero y con los programas de posdoctorado en México. La causa principal para discontinuar estos proyectos se debe a inconsistencias e irregularidades en la plataforma de captura del CONACyT y en los lineamientos de la convocatoria oficial. Por ejemplo, un mínimo de 30 solicitudes fueron evaluadas y aceptadas por los evaluadores del SNI, pero fueron rechazadas por el CONACyT por no incluir la identificación del investigador anfitrión, a pesar que este documento ya había sido proporcionado desde el inicio del proyecto de investigación y en el portal no se desplegó un espacio para adjuntarlo.
+
+Solicitamos una evaluación objetiva al CONACYT, para que los proyectos de investigación sean evaluados para su continuidad basándose en el rigor científico y avances de los mismos, no por errores derivados de inconsistencias de su mismo sistema. Por este motivo, solicitamos tu apoyo para difundir este comunicado y nuestra voz sea escuchada.
+
+
+## Carta a los Médios de Comunicación
 Por medio del presente comunicado, queremos hacer del conocimiento de la sociedad en su conjunto y a la comunidad científica mexicana los criterios empleados por la actual administración del Consejo Nacional de Ciencia y Tecnología (CONACyT) para recortar **el número de renovación de becas para estancias posdoctorales en el extranjero Vinculadas a la Consolidación de Grupos de Investigación y Fortalecimiento del Posgrado Nacional, año 2**.
 
 Durante el año 2018 se asignaron 260 becas de primer año para proyectos postdoctorales en el extranjero. Este año se renovaron únicamente 88 proyectos para su continuidad. **El criterio de peso no fue científico, ni se tomó en cuenta la pertinencia para el desarrollo del país ni las propuestas de colaboración internacional entre instituciones nacionales y extranjeras**. Muchos aspirantes cuyas propuestas no fueron aceptadas fuimos notificados de que el motivo por el que fue descartada nuestra solicitud se debió a _la falta de la identificación del investigador anfitrión_. 
@@ -25,7 +35,7 @@ Por todo lo anteriormente expuesto solicitamos la intervención del presidente *
 
 Ante una gran impotencia y decepción de la política en materia científica de la actual administración del gobierno federal, exponemos a ustedes nuestro caso solicitando su apoyo para su difusión con el objetivo de obtener una respuesta y resolución a la problemática que estamos viviendo cientos de investigadores mexicanos en diferentes partes del mundo. Esperamos que la exposición de nuestra situación ayude en un futuro corto a toda la comunidad científica que trabaja siempre por el progreso de nuestro país. 
 
-![Gráfica comparativa](Grafica2.jpeg "Gráfica comparativa")
+![Gráfica comparativa](Grafica3.png "Gráfica comparativa")
 
 ## Fuentes
 
