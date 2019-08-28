@@ -60,7 +60,7 @@ Ante una gran impotencia y decepción de la política en materia científica de 
 + Dra. María Fernanda Pérez Bernal (419307)
 + Dr. Alonso Moreno Zuria (485222)	 
 + Dr. Carlos Rodrigo Guzmán Durán (210595)
-+ Dr. Francisco Cuellar Pérez	 
++ Dr. Francisco Cuellar Pérez	(173186)
 + Dr. Adán José-García (368117)
 + Dra. Abril Armenta Franco (373438)
 + Dr. Eric Eugenio López (289891)
