@@ -67,3 +67,4 @@ Ante una gran impotencia y decepción de la política en materia científica de 
 + Dra. Ireri Betsabe Franco Estrada (371096)
 + Dra. Andrea Elizabeth Gutiérrez Quezada (298418)
 + Dr. Everardo Remi Rodríguez Rodríguez (218594)
++ Dr. Miguel Angel Soto Muñoz (377344)
