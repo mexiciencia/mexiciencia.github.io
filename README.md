@@ -68,3 +68,5 @@ Ante una gran impotencia y decepción de la política en materia científica de 
 + Dra. Andrea Elizabeth Gutiérrez Quezada (298418)
 + Dr. Everardo Remi Rodríguez Rodríguez (218594)
 + Dr. Miguel Angel Soto Muñoz (377344)
++ Dr. Filiberto Manrique Molina (445381)
++ Dr. Ximena Martínez de la Escalera Fanjul (420248)
