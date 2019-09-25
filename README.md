@@ -77,3 +77,4 @@ Ante una gran impotencia y decepción de la política en materia científica de 
 + Dr. Jhony Eredi Ramírez Cancino (289198)
 + Dr. Miguel Gracia Linares (391996)
 + Dra. Sarahí Lay Trigo (228822)
++ Dr. Gerardo Hernández Tomé (291619)
