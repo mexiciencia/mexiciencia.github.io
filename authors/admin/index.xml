@@ -1,207 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>CME</title>
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <description>CME</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Academic</title>
+      <title>CME</title>
       <link>/authors/admin/</link>
     </image>
     
     <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/post/jupyter/</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
-Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;Welcome to Academic!
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
-&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
-&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
-jupyter lab index.ipynb
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
-&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
-&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;---
-title: My post&#39;s title
-date: 2019-09-01
-
-# Put any other Academic metadata here...
----
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Edit the metadata of your post, using the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
-&lt;p&gt;To set a 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
-&lt;p&gt;For other tips, such as using math, see the guide on 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+      <title>COVID 19: Análisis sobre el impacto de medidas de control implementadas en diferentes paises</title>
+      <link>/post/covid19/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/covid19/</guid>
+      <description>&lt;h2 id=&#34;presentación-e-intención&#34;&gt;Presentación e intención&lt;/h2&gt;
+&lt;p&gt;Esta es una iniciativa que busca ofrecer una herramienta confiable a la sociedad  sobre el escenario de México frente a la Contingencia del COVID-19. Por medio de un modelo matemático y una metodología rigurosa, buscamos sumar esfuerzos a las iniciativas llevadas a cabo por el Gobierno de México a través de la Secretaría de Salud para poder transmitir a la población en general la relevancia de atender y seguir ejemplarmente las medidas de control establecidas con el objetivo de contener y mitigar el brote epidémico  COVID-19 en el país. Resaltamos que nuestro único objetivo como científicos es ofrecer una herramienta más para contrarrestar la incertidumbre de la sociedad mexicana, lejos de partidismos o filiación política. Nuestro único compromiso y responsabilidad moral es con la sociedad mexicana  a quien ofrecemos nuestro conocimiento vertido en el presente trabajo.&lt;/p&gt;
+&lt;h2 id=&#34;quienes-somos&#34;&gt;¿Quienes somos?&lt;/h2&gt;
+&lt;p&gt;Somos dos grupos que trabajamos en colaboración uno es el colectivo Científicos Mexicanos en el extranjero y el otro es el  Laboratorio  ConCiencia social, somos un grupo multidisciplinario que nos encontramos en diferentes países, por supuesto México, varios países de Europa, como son España, Reino Unido, Portugal, Austria, Italia, Francia y además también hay gente en EU.&lt;/p&gt;
+&lt;h2 id=&#34;contexto&#34;&gt;Contexto&lt;/h2&gt;
+&lt;p&gt;Estamos viviendo una pandemia provocada por el virus COVID-19  cuyo primer brote se detectó en la provincia de Hubei en China, marcando el día cero de este brote por un nuevo coronavirus el día 19 de Enero de 2020 con 216 infectados. Desde ese día la infección por COVID-19 se ha manifestado a nivel internacional lo que ha ocasionado que al día de hoy se tengan registrado brotes de COVID-19 en 178 países  cuya intensidad y evolución del brote epidémico ha variado de localidad en localidad  como lo manifiestan las curvas de infectados que hoy fácilmente podemos consultar en la red de forma actualizada y confiable,  además de múltiples bases de datos disponibles como por ejemplo una elaborada por la universidad de Oxford en donde se registran las medidas de control que los diversos países han implementado con fechas actualizadas.&lt;/p&gt;
+&lt;h2 id=&#34;inquietud-al-observar-los-datos-disponibles-de-infectados-y-las-medidas-de-control-implementadas&#34;&gt;Inquietud al observar los datos disponibles de infectados y las medidas de control implementadas&lt;/h2&gt;
+&lt;p&gt;Hemos seguido de cerca y experimentado directamente las medidas de control que han sido implementadas en los diferentes países en donde nos encontramos estos son: Italia, España, Reino Unido, además de haber analizado el caso de China por tratarse el país cero de este brote y podemos percatarnos de los diferentes binomios (medidas de control, mitigación del brote) que han sido implementados con mayor o menor éxito en los distintos países.  Lo cual nos llevó a cuestionarnos si era posible descifrar o medir de alguna manera el efecto que éstas medidas. El planteamiento que no hicimos fue si era posible implementar un modelo matemático y una metodología rigurosa que nos permitiera dar pautas a la sociedad mexicana en estos momentos y responder con base en parámetros medibles si estas medidas son eficientes o no. Resultando que nuestro modelo es capaz de responder un contundente Sí, las medidas de control diseñadas e implementadas en este momento y en este estadio de la epidemia si tuvieron y tendrán un efecto en el periodo de la evolución del brote epidémico.&lt;/p&gt;
+&lt;h2 id=&#34;concretamente--nuestros-objetivos-son&#34;&gt;Concretamente  nuestros objetivos son:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mostrar el decrecimiento de la tasa de contagio efectiva medida en todos los países que se han analizado después de un periodo de haber aplicado las medidas de control sanitario;&lt;/li&gt;
+&lt;li&gt;Mostrar que la efectividad de estas medidas depende tanto del orden y la temporalidad dentro de las etapas del brote,  así como de la severidad con las que que fueron aplicadas y la duración de las mismas.&lt;/li&gt;
+&lt;li&gt;Resaltar que una la elaboración de una estrategia adecuada a cada país para la implementa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;modelo&#34;&gt;Modelo&lt;/h2&gt;
+&lt;p&gt;La base de este trabajo es un modelo clásico de 1927 ideado por los médicos escoceses W. O. Kermack y A. G. McKendrick, el cual emplea un sistema de ecuaciones diferenciales a fin de detallar cómo surge un brote infeccioso, su crecimiento, en qué momento alcanza su máximo y cómo después decae, todo ello a partir de dos parámetros: uno biológico \gamma y otro social \beta.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gama:
+El parámetro biológico está relacionados con el número de días en que tarda un humano infectado en recuperarse y es contagioso.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beta:
+El parámetro social considera cómo se transmite este virus y cómo puedes disminuir su contagio implementando medidas de control de diferente corte que ayuden a modificar y limitar la interacción, estas son de una gama muy grande y van desde las medidas que implican incluir hábitos higiénicos como el lavado de manos y el no tocarse la cara, la limpieza de superficies etc, la sana distancia entre las personas que debe mantenerse al relacionarnos. Hasta medidas más restrictivas y severas como es el auto-aislamiento, quedarse en casa, hacer home office, y luego en una etapa más avanzada de la epidemia al inicio del crecimiento acelerado de esta el  cierre de centros de trabajo no esenciales y cuarentena prolongada. Y además las de corte monetario y fiscal  que son muy necesarias en un brote que se espera de larga duración para proteger a la población más desprotegida (debemos recordar que México es un país que debe enfrentar la Contingencia Covid-19 en las condiciones adversas con el 50% de su población en la pobreza, no bancarizada y con un sistema de salud precario).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El modelo depende igualmente de la población total, y ciertos valores iniciales como son el número inicial de infectados al dia cero del brote. El modelo predice el número de personas  infectadas y el número de recuperados a diferentes tiempos.&lt;/p&gt;
+&lt;p&gt;México es un  buen referente en el tratamiento de brotes epidémicos y una prueba de ello fue la correcta y oportuna implementación de medidas de control para el brote H1N1 en Abril 2009 en donde México fue el país cero de un nuevo virus en donde el grupo de científicos y médicos a cargo en ese entonces de la contingencia adoptaron el modelo antes mencionado para modelar el brote epidémico del H1N1 en la ciudad de México y diseñar así una estrategia de mitigación del brote, la cual fue muy efectiva.&lt;/p&gt;
+&lt;h2 id=&#34;metodología-del-ajuste-con-intervalos-variables&#34;&gt;Metodología del Ajuste con intervalos variables&lt;/h2&gt;
+&lt;p&gt;Para entender la metodología podemos imaginar un caso hipotético donde una epidemia empieza en un país y el gobierno no aplica ninguna medida de mitigación, entonces la epidemia seguirá su desarrollo natural determinado únicamente por beta y gama. Lo que podemos hacer en este caso es ajustar el modelo y medir o determinar el valor del parámetro beta que mejor ajusta los datos, un buen ajuste implicaría que nuestra predicción del modelo y observación son muy similares o idénticas.&lt;/p&gt;
+&lt;p&gt;Una vez que encontramos el modelo que mejor describe nuestras observaciones podemos evaluar cómo evolucionará la infección con el tiempo. Entonces, lo que ocurriría es que en un breve tiempo se afectaría un porcentaje importante de la población. Sabemos hoy que la tasa de enfermos que requieren hospitalización es aproximadamente 10% y la tasa de mortalidad es de 4-5%. Este caso ideal no toma en cuenta las condiciones del sistema de salud, entonces supone que sin importar el número de enfermos los hospitales podrán atenderlos. Si suponemos que el sistema de salud solo puede atender  un número limitado de enfermos, entonces se habla de saturación del sistema de salud e incremento de la tasa de mortalidad. Por tanto el interés de los gobiernos por implementar medidas de mitigación para intentar reducir la tasa de contagio y por ende el número  de pacientes que requerirán atención hospitalaria y de cuidados intensivos al mismo tiempo y de esta forma  administrar los recurso de salud de manera óptima.&lt;/p&gt;
+&lt;p&gt;Un modelo estático no nos sirve para estudiar la evolución de la epidemia, dado que la mayoría de los países han implementado medidas de mitigación, entonces podemos esperar que la evolución tenga una tasa efectiva de contagio que varía en el tiempo y en particular esperamos que disminuya en el tiempo. Lo que hicimos fue ajustar el modelo variando el intervalo de tiempo del ajuste para poder identificar si las medidas han tenido impacto en la tasa de contagio efectiva. Realizamos este procedimiento por el número de intervalos de tiempo que nos indique nuestros datos.&lt;/p&gt;
+&lt;p&gt;Este análisis fue aplicado para 5 países: China, Italia, España, Reino Unido, Estados Unidos y México. Para poder asociar los cambios en la tasa de contagio con las medidas de mitigación realizamos una investigación de las fechas y medidas de mitigación implementadas, así como la efectividad y severidad de las medidas en los diferentes paises. En particular nos centramos en analizar  el impacto en el parámetro beta, de las estrategias de mitigación seguidas en los diferentes países y esperamos que entre más efectivas las medidas, más baja sea la tasa de contagio.&lt;/p&gt;
+&lt;h2 id=&#34;limitaciones-del-modelo&#34;&gt;Limitaciones del Modelo&lt;/h2&gt;
+&lt;p&gt;El modelo no integra una dimensión espacial y considera que la propagación del brote es homogénea. Entonces en los casos donde una ciudad o unas cuantas ciudades tienen un brote de distinta intensidad y temporalidad, la interpretación del modelo será un promedio de los efectos de cada uno de los brotes en las ciudades, lo que llamamos tasa de contagio efectiva.&lt;/p&gt;
+&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;china.jpeg&#34; alt=&#34;imagen of china&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Análisis sobre el impacto de las medidas de control implementadas en CHINA para tratar de mitigar el brote epidémico. El brote epidémico en China fue detectado y declarado el 19 de enero con 216 casos confirmados. Debido a que el brote se encontraba ya en una fase de crecimiento acelerado, se implementaron medidas de control muy severas a nivel regional en toda la provincia de Hubei.&lt;/p&gt;
+&lt;p&gt;Las medidas adoptadas a nivel regional permitió mitigar la intensidad del brote inicial. Particularmente, al día 10 de iniciada la epidemia se observa un pequeño decrecimiento en la tasa de contagio. Las medidas de control no se relajaron durante los próximos 30 días. Este efecto de las medidas puede apreciarse en que los valores de beta decrecen conforme pasa el tiempo y que el efecto de “aplanamiento” se observa en los escenarios evolutivos de la epidemia por el modelo SIR. Observamos que la aplicación contundente y efectiva de las diferentes medidas de control en la región del brote (y algunas otras preventivas a nivel nacional) ayudaron a concentrar y frenar el brote epidémico, y por ello no fue necesario extender estas mismas medidas a nivel nacional.&lt;/p&gt;
+&lt;p&gt;China implementó una estrategia efectiva para mitigar el brote de COVID19 y mantenerlo en la región de Hubei por un tiempo prolongado, suficiente para que no fuera propagado en el resto del país, donde el  balance final de defunciones a la fecha es de 3,316.&lt;/p&gt;
+&lt;h2 id=&#34;italia&#34;&gt;Italia&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;italia.jpeg&#34; alt=&#34;imagen of italia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Italia fue el primer país en presentar un brote de gran intensidad en Europa,  brote que lamentablemente a la fecha sigue su curso costando muchas vidas en su población y un golpe terrible a los trabajadores de la salud en donde su capacidad hospitalaria y de atención fue rebasada en la fase de crecimiento acelerado del brote. Italia detectó el inicio del brote el dia 24 de Febrero con 132 casos confirmados en su mayoría localizados en la Región de Lombardía. No fueron aplicadas mayores medidas de control para contener o mitigar el brote previamente a excepción de controles de viajes Internacionales de corte severo al dia 30 de enero, tampoco hubo campaña de información previa. Se observa que las medidas de control comienzan a ser implementadas el día 4 de marzo, 8 días después del día declarado como el inicio de la epidemia en la fase de crecimiento rápido de la epidemia y no son de corte severas en la región del brote sino más bien son de carácter relajado y gradual, por tanto podemos esperar que el impacto de las medidas sea mucho menor que en China. Los resultados verifican la intuición y encontramos que la tasa de contacto que podemos extraer de los datos en distintos periodos del brote ha decrecido  más lentamente por ende el brote está teniendo una duración más larga en comparación con China y también se han registrado un mayor número de muertes, siendo el 19 de marzo el día en que lamentablemente Italia superó el número de defunciones por Covid19 que hasta el momento había reportado china esto ocurre a los 19 días del inicio del brote en Italia.  El caso de Italia es importante pues es el primer país en describir una  evolución a un escenario muy difícil en donde se supera el punto de la capacidad del sistema de salud, esto es la saturación de los sistemas de salud que igualmente aumentan la tasa de mortalidad y a la fecha Italia ha presentado 12 428 muertes. Por el momento no hemos incluido análisis de esta componente del fenómeno pero es algo que potencialmente integraremos al análisis.&lt;/p&gt;
+&lt;h2 id=&#34;españa&#34;&gt;España&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;espana.jpeg&#34; alt=&#34;imagen of spain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Análisis sobre el impacto de las medidas de control implementadas en ESPAÑA para tratar de mitigar el brote epidémico. España detectó el brote epidémico el 3 de marzo con 114 infectados. La única medida de control, anterior a la fecha del brote, fue una campaña de información con poca difusión por parte del gobierno y de su sistema de salud.&lt;/p&gt;
+&lt;p&gt;España tomó medidas drásticas hasta 10 de marzo cuando se registraron 4,231 infectados y la epidemia ya estaba en un crecimiento acelerado. El impacto de estas medidas puede observarse en la curva de infectados, en el gráfico se observa que del 13 de marzo y 19 de marzo el parámetro beta de tasa de contacto efectiva ha disminuido de 0.42 a 0.25.&lt;/p&gt;
+&lt;p&gt;El 26 de marzo, España superó a CHINA en el número de defunciones por COVID19. Esto es a los 20 DÍAS del inicio del brote.&lt;/p&gt;
+&lt;h2 id=&#34;estados-unidos&#34;&gt;Estados Unidos&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;eua.jpeg&#34; alt=&#34;imagen of usa&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Con respecto a Estados Unidos , lo que observamos del análisis es que no se ha observado disminución de la tasa de contagio a los 21 días de haber iniciado el brote. Lo que indica que las medidas de control se aplicaron de manera muy tardía en el brote y no han tenido ningún efecto en la tasa de contacto. El país se encuentra en un momento de crecimiento acelerado del número de infectados y la ausencia de medidas severas homogéneas o coherentes a lo largo del país para la contención de la epidemia parecen apuntar a que la tasa de contacto no tendrá cambios significativos en las semanas próximas. Caracteristicas de estados Unidos que deben tomarse en cuenta al realizar el análisis es su gran conectividad, su población relativamente grande, y la ausencia de medidas coherentes a lo largo del país de contención de la epidemia, que se han presentado múltiples brotes en el país, sobre todo en toda la costa este y en California lo cual no permite que podamos asumir una evolución homogénea por lo que pensamos hacer en el futuro análisis regionales.&lt;/p&gt;
+&lt;h2 id=&#34;méxico&#34;&gt;México&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;mexico.jpeg&#34; alt=&#34;imagen of mexico&#34;&gt;
+&lt;img src=&#34;mexico_2.jpeg&#34; alt=&#34;imagen of mexico_2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En México en contraste con el resto de países que hemos analizado hasta el momento como son China, Italia, España, Uk, Estados Unidos, demuestra haber preparado una estrategia con suficiente antelación ante la llegada de un brote de COVID-19 al país. Todas las medidas implementadas en la Fase 1 de la epidemia con suficiente antelación al inicio del brote repercutieron positivamente para lograr mitigar la intensidad del brote esto, de acuerdo al los datos arrojados por el estudio lo podemos identificar en que el ajuste del parámetro de contacto efectivo es de beta=0.31 al inicio del brote, el cual es mucho menor al beta=0.42 reportado en las mediciones en China Italia y España. Al dia 9-10 empieza a vislumbrarse una inflexión en la curva a un  estado de menor crecimiento y su evolución responderá al impacto del correcto comportamiento de la ciudadanía y gobierno para acatar las medidas impuestas en fase 2.&lt;/p&gt;
+&lt;p&gt;Con la evolución a un mayor número de días será posible medir el impacto de las medidas implementadas por la secretaría de salud y gobierno del día 24 de marzo con el inicio de la fase 2 y el dia 30 de marzo con el cierre de centros de trabajo no esenciales. Se puede esperar que si la ciudadanía sigue las recomendaciones la tasa de contacto será mucho menor a 0.303 de no relajarse las medidas y aplicarse por el tiempo estimado por la secretaría de salud y gobierno.&lt;/p&gt;
+&lt;p&gt;Consideramos que México ha diseñado una estrategia y se ha anticipado adecuadamente a la llegada del brote, iniciando una fuerte campaña de información 8 semanas previas al inicio del mismo. Se han difundido oportunamente recomendaciones sanitarias que incluyen medidas de higiene y de la jornada de sana distancia para disminuir la transmisión del virus. Además, las medidas más severas de limitación de la movilidad han sido aplicadas oportunamente en la fase previa al inicio del crecimiento acelerado del brote, también ya en la fase de crecimiento acelerado se han anunciado nuevas medidas que incluyen el cierre  de centros de trabajo no esenciales hasta el 30 de abril. Podemos esperar que si no se relajan estas medidas y son  adoptadas por la mayoría de los habitantes del país se logre reducir sustancialmente la tasa de contagio efectiva en las próximas semanas. Esta semana será clave para valorar el impacto de las medidas pero los resultados preliminares parecen prometedores. En la figura mostramos dos proyecciones en 2 escenarios diferentes un escenario donde se tiene una mitigación efectiva que seguiría la trayectoria de países como China y un escenario menos prometedor donde la tasa de contagio decrece como Italia. Estas predicciones también las iremos actualizando.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Academic: the website builder for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/post/getting-started/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+      <title>COVID 19: Análisis sobre el impacto de medidas de control implementadas en diferentes paises</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>&lt;h2 id=&#34;presentación-e-intención&#34;&gt;Presentación e intención&lt;/h2&gt;
+&lt;p&gt;Esta es una iniciativa que busca ofrecer una herramienta confiable a la sociedad  sobre el escenario de México frente a la Contingencia del COVID-19. Por medio de un modelo matemático y una metodología rigurosa, buscamos sumar esfuerzos a las iniciativas llevadas a cabo por el Gobierno de México a través de la Secretaría de Salud para poder transmitir a la población en general la relevancia de atender y seguir ejemplarmente las medidas de control establecidas con el objetivo de contener y mitigar el brote epidémico  COVID-19 en el país. Resaltamos que nuestro único objetivo como científicos es ofrecer una herramienta más para contrarrestar la incertidumbre de la sociedad mexicana, lejos de partidismos o filiación política. Nuestro único compromiso y responsabilidad moral es con la sociedad mexicana  a quien ofrecemos nuestro conocimiento vertido en el presente trabajo.&lt;/p&gt;
+&lt;h2 id=&#34;quienes-somos&#34;&gt;¿Quienes somos?&lt;/h2&gt;
+&lt;p&gt;Somos dos grupos que trabajamos en colaboración uno es el colectivo Científicos Mexicanos en el extranjero y el otro es el  Laboratorio  ConCiencia social, somos un grupo multidisciplinario que nos encontramos en diferentes países, por supuesto México, varios países de Europa, como son España, Reino Unido, Portugal, Austria, Italia, Francia y además también hay gente en EU.&lt;/p&gt;
+&lt;h2 id=&#34;contexto&#34;&gt;Contexto&lt;/h2&gt;
+&lt;p&gt;Estamos viviendo una pandemia provocada por el virus COVID-19  cuyo primer brote se detectó en la provincia de Hubei en China, marcando el día cero de este brote por un nuevo coronavirus el día 19 de Enero de 2020 con 216 infectados. Desde ese día la infección por COVID-19 se ha manifestado a nivel internacional lo que ha ocasionado que al día de hoy se tengan registrado brotes de COVID-19 en 178 países  cuya intensidad y evolución del brote epidémico ha variado de localidad en localidad  como lo manifiestan las curvas de infectados que hoy fácilmente podemos consultar en la red de forma actualizada y confiable,  además de múltiples bases de datos disponibles como por ejemplo una elaborada por la universidad de Oxford en donde se registran las medidas de control que los diversos países han implementado con fechas actualizadas.&lt;/p&gt;
+&lt;h2 id=&#34;inquietud-al-observar-los-datos-disponibles-de-infectados-y-las-medidas-de-control-implementadas&#34;&gt;Inquietud al observar los datos disponibles de infectados y las medidas de control implementadas&lt;/h2&gt;
+&lt;p&gt;Hemos seguido de cerca y experimentado directamente las medidas de control que han sido implementadas en los diferentes países en donde nos encontramos estos son: Italia, España, Reino Unido, además de haber analizado el caso de China por tratarse el país cero de este brote y podemos percatarnos de los diferentes binomios (medidas de control, mitigación del brote) que han sido implementados con mayor o menor éxito en los distintos países.  Lo cual nos llevó a cuestionarnos si era posible descifrar o medir de alguna manera el efecto que éstas medidas. El planteamiento que no hicimos fue si era posible implementar un modelo matemático y una metodología rigurosa que nos permitiera dar pautas a la sociedad mexicana en estos momentos y responder con base en parámetros medibles si estas medidas son eficientes o no. Resultando que nuestro modelo es capaz de responder un contundente Sí, las medidas de control diseñadas e implementadas en este momento y en este estadio de la epidemia si tuvieron y tendrán un efecto en el periodo de la evolución del brote epidémico.&lt;/p&gt;
+&lt;h2 id=&#34;concretamente--nuestros-objetivos-son&#34;&gt;Concretamente  nuestros objetivos son:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 
-&lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 
-&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👥 
-&lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: 
-&lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@source_themes&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; 
-&lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
-&lt;ul&gt;
-&lt;li&gt;☕️ 
-&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💵 
-&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🖼️ 
-&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👕 
-&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;👩‍💻 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mostrar el decrecimiento de la tasa de contagio efectiva medida en todos los países que se han analizado después de un periodo de haber aplicado las medidas de control sanitario;&lt;/li&gt;
+&lt;li&gt;Mostrar que la efectividad de estas medidas depende tanto del orden y la temporalidad dentro de las etapas del brote,  así como de la severidad con las que que fueron aplicadas y la duración de las mismas.&lt;/li&gt;
+&lt;li&gt;Resaltar que una la elaboración de una estrategia adecuada a cada país para la implementa&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;modelo&#34;&gt;Modelo&lt;/h2&gt;
+&lt;p&gt;La base de este trabajo es un modelo clásico de 1927 ideado por los médicos escoceses W. O. Kermack y A. G. McKendrick, el cual emplea un sistema de ecuaciones diferenciales a fin de detallar cómo surge un brote infeccioso, su crecimiento, en qué momento alcanza su máximo y cómo después decae, todo ello a partir de dos parámetros: uno biológico \gamma y otro social \beta.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Gama:
+El parámetro biológico está relacionados con el número de días en que tarda un humano infectado en recuperarse y es contagioso.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beta:
+El parámetro social considera cómo se transmite este virus y cómo puedes disminuir su contagio implementando medidas de control de diferente corte que ayuden a modificar y limitar la interacción, estas son de una gama muy grande y van desde las medidas que implican incluir hábitos higiénicos como el lavado de manos y el no tocarse la cara, la limpieza de superficies etc, la sana distancia entre las personas que debe mantenerse al relacionarnos. Hasta medidas más restrictivas y severas como es el auto-aislamiento, quedarse en casa, hacer home office, y luego en una etapa más avanzada de la epidemia al inicio del crecimiento acelerado de esta el  cierre de centros de trabajo no esenciales y cuarentena prolongada. Y además las de corte monetario y fiscal  que son muy necesarias en un brote que se espera de larga duración para proteger a la población más desprotegida (debemos recordar que México es un país que debe enfrentar la Contingencia Covid-19 en las condiciones adversas con el 50% de su población en la pobreza, no bancarizada y con un sistema de salud precario).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure id=&#34;figure-academic-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
-
-
-  &lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34;  &gt;
-&lt;/a&gt;
-
-
-  
-  
-  &lt;figcaption&gt;
-    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
-  &lt;/figcaption&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable 
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and 
-&lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - 
-&lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, 
-&lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the 
-&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;
-&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Then 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; to help keep track of 
-&lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present 
-&lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the 
-&lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;El modelo depende igualmente de la población total, y ciertos valores iniciales como son el número inicial de infectados al dia cero del brote. El modelo predice el número de personas  infectadas y el número de recuperados a diferentes tiempos.&lt;/p&gt;
+&lt;p&gt;México es un  buen referente en el tratamiento de brotes epidémicos y una prueba de ello fue la correcta y oportuna implementación de medidas de control para el brote H1N1 en Abril 2009 en donde México fue el país cero de un nuevo virus en donde el grupo de científicos y médicos a cargo en ese entonces de la contingencia adoptaron el modelo antes mencionado para modelar el brote epidémico del H1N1 en la ciudad de México y diseñar así una estrategia de mitigación del brote, la cual fue muy efectiva.&lt;/p&gt;
+&lt;h2 id=&#34;metodología-del-ajuste-con-intervalos-variables&#34;&gt;Metodología del Ajuste con intervalos variables&lt;/h2&gt;
+&lt;p&gt;Para entender la metodología podemos imaginar un caso hipotético donde una epidemia empieza en un país y el gobierno no aplica ninguna medida de mitigación, entonces la epidemia seguirá su desarrollo natural determinado únicamente por beta y gama. Lo que podemos hacer en este caso es ajustar el modelo y medir o determinar el valor del parámetro beta que mejor ajusta los datos, un buen ajuste implicaría que nuestra predicción del modelo y observación son muy similares o idénticas.&lt;/p&gt;
+&lt;p&gt;Una vez que encontramos el modelo que mejor describe nuestras observaciones podemos evaluar cómo evolucionará la infección con el tiempo. Entonces, lo que ocurriría es que en un breve tiempo se afectaría un porcentaje importante de la población. Sabemos hoy que la tasa de enfermos que requieren hospitalización es aproximadamente 10% y la tasa de mortalidad es de 4-5%. Este caso ideal no toma en cuenta las condiciones del sistema de salud, entonces supone que sin importar el número de enfermos los hospitales podrán atenderlos. Si suponemos que el sistema de salud solo puede atender  un número limitado de enfermos, entonces se habla de saturación del sistema de salud e incremento de la tasa de mortalidad. Por tanto el interés de los gobiernos por implementar medidas de mitigación para intentar reducir la tasa de contagio y por ende el número  de pacientes que requerirán atención hospitalaria y de cuidados intensivos al mismo tiempo y de esta forma  administrar los recurso de salud de manera óptima.&lt;/p&gt;
+&lt;p&gt;Un modelo estático no nos sirve para estudiar la evolución de la epidemia, dado que la mayoría de los países han implementado medidas de mitigación, entonces podemos esperar que la evolución tenga una tasa efectiva de contagio que varía en el tiempo y en particular esperamos que disminuya en el tiempo. Lo que hicimos fue ajustar el modelo variando el intervalo de tiempo del ajuste para poder identificar si las medidas han tenido impacto en la tasa de contagio efectiva. Realizamos este procedimiento por el número de intervalos de tiempo que nos indique nuestros datos.&lt;/p&gt;
+&lt;p&gt;Este análisis fue aplicado para 5 países: China, Italia, España, Reino Unido, Estados Unidos y México. Para poder asociar los cambios en la tasa de contagio con las medidas de mitigación realizamos una investigación de las fechas y medidas de mitigación implementadas, así como la efectividad y severidad de las medidas en los diferentes paises. En particular nos centramos en analizar  el impacto en el parámetro beta, de las estrategias de mitigación seguidas en los diferentes países y esperamos que entre más efectivas las medidas, más baja sea la tasa de contagio.&lt;/p&gt;
+&lt;h2 id=&#34;limitaciones-del-modelo&#34;&gt;Limitaciones del Modelo&lt;/h2&gt;
+&lt;p&gt;El modelo no integra una dimensión espacial y considera que la propagación del brote es homogénea. Entonces en los casos donde una ciudad o unas cuantas ciudades tienen un brote de distinta intensidad y temporalidad, la interpretación del modelo será un promedio de los efectos de cada uno de los brotes en las ciudades, lo que llamamos tasa de contagio efectiva.&lt;/p&gt;
+&lt;h2 id=&#34;china&#34;&gt;China&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;china.jpeg&#34; alt=&#34;imagen of china&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Análisis sobre el impacto de las medidas de control implementadas en CHINA para tratar de mitigar el brote epidémico. El brote epidémico en China fue detectado y declarado el 19 de enero con 216 casos confirmados. Debido a que el brote se encontraba ya en una fase de crecimiento acelerado, se implementaron medidas de control muy severas a nivel regional en toda la provincia de Hubei.&lt;/p&gt;
+&lt;p&gt;Las medidas adoptadas a nivel regional permitió mitigar la intensidad del brote inicial. Particularmente, al día 10 de iniciada la epidemia se observa un pequeño decrecimiento en la tasa de contagio. Las medidas de control no se relajaron durante los próximos 30 días. Este efecto de las medidas puede apreciarse en que los valores de beta decrecen conforme pasa el tiempo y que el efecto de “aplanamiento” se observa en los escenarios evolutivos de la epidemia por el modelo SIR. Observamos que la aplicación contundente y efectiva de las diferentes medidas de control en la región del brote (y algunas otras preventivas a nivel nacional) ayudaron a concentrar y frenar el brote epidémico, y por ello no fue necesario extender estas mismas medidas a nivel nacional.&lt;/p&gt;
+&lt;p&gt;China implementó una estrategia efectiva para mitigar el brote de COVID19 y mantenerlo en la región de Hubei por un tiempo prolongado, suficiente para que no fuera propagado en el resto del país, donde el  balance final de defunciones a la fecha es de 3,316.&lt;/p&gt;
+&lt;h2 id=&#34;italia&#34;&gt;Italia&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;italia.jpeg&#34; alt=&#34;imagen of italia&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Italia fue el primer país en presentar un brote de gran intensidad en Europa,  brote que lamentablemente a la fecha sigue su curso costando muchas vidas en su población y un golpe terrible a los trabajadores de la salud en donde su capacidad hospitalaria y de atención fue rebasada en la fase de crecimiento acelerado del brote. Italia detectó el inicio del brote el dia 24 de Febrero con 132 casos confirmados en su mayoría localizados en la Región de Lombardía. No fueron aplicadas mayores medidas de control para contener o mitigar el brote previamente a excepción de controles de viajes Internacionales de corte severo al dia 30 de enero, tampoco hubo campaña de información previa. Se observa que las medidas de control comienzan a ser implementadas el día 4 de marzo, 8 días después del día declarado como el inicio de la epidemia en la fase de crecimiento rápido de la epidemia y no son de corte severas en la región del brote sino más bien son de carácter relajado y gradual, por tanto podemos esperar que el impacto de las medidas sea mucho menor que en China. Los resultados verifican la intuición y encontramos que la tasa de contacto que podemos extraer de los datos en distintos periodos del brote ha decrecido  más lentamente por ende el brote está teniendo una duración más larga en comparación con China y también se han registrado un mayor número de muertes, siendo el 19 de marzo el día en que lamentablemente Italia superó el número de defunciones por Covid19 que hasta el momento había reportado china esto ocurre a los 19 días del inicio del brote en Italia.  El caso de Italia es importante pues es el primer país en describir una  evolución a un escenario muy difícil en donde se supera el punto de la capacidad del sistema de salud, esto es la saturación de los sistemas de salud que igualmente aumentan la tasa de mortalidad y a la fecha Italia ha presentado 12 428 muertes. Por el momento no hemos incluido análisis de esta componente del fenómeno pero es algo que potencialmente integraremos al análisis.&lt;/p&gt;
+&lt;h2 id=&#34;españa&#34;&gt;España&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;espana.jpeg&#34; alt=&#34;imagen of spain&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Análisis sobre el impacto de las medidas de control implementadas en ESPAÑA para tratar de mitigar el brote epidémico. España detectó el brote epidémico el 3 de marzo con 114 infectados. La única medida de control, anterior a la fecha del brote, fue una campaña de información con poca difusión por parte del gobierno y de su sistema de salud.&lt;/p&gt;
+&lt;p&gt;España tomó medidas drásticas hasta 10 de marzo cuando se registraron 4,231 infectados y la epidemia ya estaba en un crecimiento acelerado. El impacto de estas medidas puede observarse en la curva de infectados, en el gráfico se observa que del 13 de marzo y 19 de marzo el parámetro beta de tasa de contacto efectiva ha disminuido de 0.42 a 0.25.&lt;/p&gt;
+&lt;p&gt;El 26 de marzo, España superó a CHINA en el número de defunciones por COVID19. Esto es a los 20 DÍAS del inicio del brote.&lt;/p&gt;
+&lt;h2 id=&#34;estados-unidos&#34;&gt;Estados Unidos&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;eua.jpeg&#34; alt=&#34;imagen of usa&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Con respecto a Estados Unidos , lo que observamos del análisis es que no se ha observado disminución de la tasa de contagio a los 21 días de haber iniciado el brote. Lo que indica que las medidas de control se aplicaron de manera muy tardía en el brote y no han tenido ningún efecto en la tasa de contacto. El país se encuentra en un momento de crecimiento acelerado del número de infectados y la ausencia de medidas severas homogéneas o coherentes a lo largo del país para la contención de la epidemia parecen apuntar a que la tasa de contacto no tendrá cambios significativos en las semanas próximas. Caracteristicas de estados Unidos que deben tomarse en cuenta al realizar el análisis es su gran conectividad, su población relativamente grande, y la ausencia de medidas coherentes a lo largo del país de contención de la epidemia, que se han presentado múltiples brotes en el país, sobre todo en toda la costa este y en California lo cual no permite que podamos asumir una evolución homogénea por lo que pensamos hacer en el futuro análisis regionales.&lt;/p&gt;
+&lt;h2 id=&#34;méxico&#34;&gt;México&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;mexico.jpeg&#34; alt=&#34;imagen of mexico&#34;&gt;
+&lt;img src=&#34;mexico_2.jpeg&#34; alt=&#34;imagen of mexico_2&#34;&gt;&lt;/p&gt;
+&lt;p&gt;En México en contraste con el resto de países que hemos analizado hasta el momento como son China, Italia, España, Uk, Estados Unidos, demuestra haber preparado una estrategia con suficiente antelación ante la llegada de un brote de COVID-19 al país. Todas las medidas implementadas en la Fase 1 de la epidemia con suficiente antelación al inicio del brote repercutieron positivamente para lograr mitigar la intensidad del brote esto, de acuerdo al los datos arrojados por el estudio lo podemos identificar en que el ajuste del parámetro de contacto efectivo es de beta=0.31 al inicio del brote, el cual es mucho menor al beta=0.42 reportado en las mediciones en China Italia y España. Al dia 9-10 empieza a vislumbrarse una inflexión en la curva a un  estado de menor crecimiento y su evolución responderá al impacto del correcto comportamiento de la ciudadanía y gobierno para acatar las medidas impuestas en fase 2.&lt;/p&gt;
+&lt;p&gt;Con la evolución a un mayor número de días será posible medir el impacto de las medidas implementadas por la secretaría de salud y gobierno del día 24 de marzo con el inicio de la fase 2 y el dia 30 de marzo con el cierre de centros de trabajo no esenciales. Se puede esperar que si la ciudadanía sigue las recomendaciones la tasa de contacto será mucho menor a 0.303 de no relajarse las medidas y aplicarse por el tiempo estimado por la secretaría de salud y gobierno.&lt;/p&gt;
+&lt;p&gt;Consideramos que México ha diseñado una estrategia y se ha anticipado adecuadamente a la llegada del brote, iniciando una fuerte campaña de información 8 semanas previas al inicio del mismo. Se han difundido oportunamente recomendaciones sanitarias que incluyen medidas de higiene y de la jornada de sana distancia para disminuir la transmisión del virus. Además, las medidas más severas de limitación de la movilidad han sido aplicadas oportunamente en la fase previa al inicio del crecimiento acelerado del brote, también ya en la fase de crecimiento acelerado se han anunciado nuevas medidas que incluyen el cierre  de centros de trabajo no esenciales hasta el 30 de abril. Podemos esperar que si no se relajan estas medidas y son  adoptadas por la mayoría de los habitantes del país se logre reducir sustancialmente la tasa de contagio efectiva en las próximas semanas. Esta semana será clave para valorar el impacto de las medidas pero los resultados preliminares parecen prometedores. En la figura mostramos dos proyecciones en 2 escenarios diferentes un escenario donde se tiene una mitigación efectiva que seguiría la trayectoria de países como China y un escenario menos prometedor donde la tasa de contagio decrece como Italia. Estas predicciones también las iremos actualizando.&lt;/p&gt;
 </description>
     </item>
     
