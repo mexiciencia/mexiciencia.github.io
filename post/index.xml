@@ -1,15 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>List of Posts on Científicos Mexicanos en el Extranjero</title>
+    <title>Listado de Posts on Científicos Mexicanos en el Extranjero</title>
     <link>/post/</link>
-    <description>Recent content in List of Posts on Científicos Mexicanos en el Extranjero</description>
+    <description>Recent content in Listado de Posts on Científicos Mexicanos en el Extranjero</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>COVID-19 MX: Evolución del brote epidémico en México</title>
+      <link>/post/covid19_report/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/covid19_report/</guid>
+      <description>&lt;h2 id=&#34;presentación-e-intención&#34;&gt;Presentación e intención&lt;/h2&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;preguntas&#34;&gt;Preguntas&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>Medidas de control ante el brote COVID-19 y su impacto en la evolución del brote epidémico</title>
