@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/datasets/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example.1/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example.2/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example.1/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example.2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example.2/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/example.1/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/abigail/</loc>
   </url>
   
@@ -77,7 +32,17 @@
   </url>
   
   <url>
+    <loc>/authors/adan/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rosamaria/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -92,12 +57,12 @@
   </url>
   
   <url>
-    <loc>/post/covid19_report/</loc>
+    <loc>/tags/covid19/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/covid19/</loc>
+    <loc>/post/covid19_report/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,11 +94,6 @@
   <url>
     <loc>/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/datasets/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -186,10 +146,6 @@
   </url>
   
   <url>
-    <loc>/authors/adan/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/adriana/</loc>
   </url>
   
@@ -211,10 +167,6 @@
   
   <url>
     <loc>/authors/pacupe/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/rosamaria/</loc>
   </url>
   
   <url>

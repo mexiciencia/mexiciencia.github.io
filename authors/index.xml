@@ -23,6 +23,17 @@
     
     <item>
       <title></title>
+      <link>/authors/adan/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/adan/</guid>
+      <description>&lt;p&gt;I received the M.Sc. and Ph.D. degrees in computer science from the Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico, in 2012 and 2017, respectively.&lt;/p&gt;
+&lt;p&gt;My main research interests involve the study and design of data clustering techniques based on nature-inspired metaheuristics and their applications to problems from areas such as digital image segmentation and machine learning. Recently, I have been focused on the development of a multiobjective evolutionary approach for multi-view data clustering and its application to a range of application domains, ranging from network analysis to medical imaging data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/admin/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -34,22 +45,22 @@
     
     <item>
       <title></title>
+      <link>/authors/rosamaria/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/rosamaria/</guid>
+      <description>&lt;p&gt;My name is Rosa Maria Vargas Magaña I recently (August 2017) received my Ph.D. in Mathematical Sciences from the Universidad Nacional Autónoma de México at (IIMAS), working on non-local shallow water wave models over variable topography under the supervision of  Dr. Panayotis Panayotaros.&lt;/p&gt;
+&lt;p&gt;My principal research interests are: Nonlinear waves, Hamiltonian systems, Surface water waves, Pseudo-dierential operators, Numerical analysis, Fluid dynamics, Geophysical and Engineering applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/abril/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/abril/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/adan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/adan/</guid>
-      <description>&lt;p&gt;I received the M.Sc. and Ph.D. degrees in computer science from the Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico, in 2012 and 2017, respectively.&lt;/p&gt;
-&lt;p&gt;My main research interests involve the study and design of data clustering techniques based on nature-inspired metaheuristics and their applications to problems from areas such as digital image segmentation and machine learning. Recently, I have been focused on the development of a multiobjective evolutionary approach for multi-view data clustering and its application to a range of application domains, ranging from network analysis to medical imaging data.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -76,7 +87,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/jesus/</guid>
-      <description></description>
+      <description>&lt;p&gt;Doctor in Astrophysics with 7 years of expertise in research. Mostly on the development of numerical/computational tools for physical and astrophysical simulations. I have a high expertise in programming, data analysis and problem solving.&lt;/p&gt;
+&lt;p&gt;I am creative, innovative, analyst and hard worker. During my PhD studies I developed high programming skills in several languages such as Python, R, Fortran, C++, Shell, etc., and version control tools like Git using platforms such as GitHub and Bitbucket. I worked on developing sophisticated numerical tools which were implemented to simulate blazars flares (prompt high energy radiation from relativistic jets of active galactic nuclei). This has shown my fast learning skill of new programming languages and develop efficient codes to solve the problem posed.&lt;/p&gt;
+&lt;p&gt;I am coauthor of three articles in peer reviewed scientific journals and author of a doctoral thesis, qualified as innovative, in which several numerical and programming issues were overcome, reason why it received the distinction of excellent. In addition, I have good English skills which makes me capable of discussing and interact fluently in both Spanish and English.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -104,17 +118,6 @@
       
       <guid>/authors/pacupe/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/rosamaria/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/rosamaria/</guid>
-      <description>&lt;p&gt;My name is Rosa Maria Vargas Magaña I recently (August 2017) received my Ph.D. in Mathematical Sciences from the Universidad Nacional Autónoma de México at (IIMAS), working on non-local shallow water wave models over variable topography under the supervision of  Dr. Panayotis Panayotaros.&lt;/p&gt;
-&lt;p&gt;My principal research interests are: Nonlinear waves, Hamiltonian systems, Surface water waves, Pseudo-dierential operators, Numerical analysis, Fluid dynamics, Geophysical and Engineering applications.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

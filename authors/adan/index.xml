@@ -6,9 +6,23 @@
     <description>Recent content on Científicos Mexicanos en el Extranjero</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/adan/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Evolución de COVID-19 en México</title>
+      <link>/post/covid19_report/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/covid19_report/</guid>
+      <description>&lt;h2 id=&#34;mapa-interactivo&#34;&gt;Mapa interactivo&lt;/h2&gt;
+&lt;iframe width=&#34;900&#34; height=&#34;1220&#34; src=&#34;https://datastudio.google.com/embed/reporting/c2b622f7-ccb1-4af7-858b-0cdc9745f97f/page/zGEMB&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;
+&lt;/iframe&gt;
+&lt;div class=&#34;flourish-embed flourish-map&#34; data-src=&#34;visualisation/1971849&#34; data-url=&#34;https://flo.uri.sh/visualisation/1971849/embed&#34; data-width=&#34;105%&#34;&gt;&lt;script src=&#34;https://public.flourish.studio/resources/embed.js&#34;&gt;&lt;/script&gt;&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
