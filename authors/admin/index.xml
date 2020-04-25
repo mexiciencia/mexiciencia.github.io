@@ -6,7 +6,7 @@
     <description>Recent content on Científicos Mexicanos en el Extranjero</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Evolución del COVID-19 en México</title>
       <link>/post/covid19_report/</link>
-      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/covid19_report/</guid>
       <description>&lt;p&gt;Mapas interactivos de la evolución del brote epidémico COVID-19 en México por entidades.&lt;/p&gt;
@@ -28,6 +28,72 @@
 &lt;li&gt;Mapa interactivo y visualización de datos (Dr. &lt;a href=&#34;https://www.tamps.cinvestav.mx/~ajose/&#34;&gt;Adán José-García&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Mapa de dispersiones  (Dr. &lt;a href=&#34;https://thes0lver.wordpress.com/&#34;&gt;Rafael Pérez-Torres&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title> Descripción del Modelo SIR</title>
+      <link>/post/modelo-sir/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/modelo-sir/</guid>
+      <description>&lt;h1 id=&#34;qué-es-el-modelo-sir&#34;&gt;¿Qué es el modelo SIR?&lt;/h1&gt;
+&lt;p&gt;Entender y predecir comportamiento de una epidemia es una de las cosas que le interesa conocer a la epidemiología. Existen distintas estrategias para conseguir entender esto. Una en particular es mediante el modelo matemático determinista desarrollado originalmente por &lt;a href=&#34;https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118&#34;&gt;Kermack y McKendrick (1927)&lt;/a&gt;, el cual consiste en asumir que el comportamiento de las poblaciones susceptible a contagio ($S$), infectada ($I$) y recuperada ($R$), está dado por el siguiente sistema de ecuaciones diferenciales ordinarias:&lt;/p&gt;
+&lt;p&gt;$$\begin{align}
+\dfrac{dS}{dt} &amp;amp; = -\beta S I \&lt;br&gt;
+\dfrac{dI}{dt} &amp;amp; = \beta S I - \lambda I \&lt;br&gt;
+\dfrac{dR}{dt} &amp;amp; = \gamma I \&lt;br&gt;
+\end{align}$$&lt;/p&gt;
+&lt;p&gt;donde $S + I + R = 1$. Estas ecuaciones representan el número de individuos por intervalo de tiempo en cada una de las poblaciones consideradas. El significado de cada parámetro corresponde a características particulares de la enfermedad:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$\beta$ es la taza de infección. Este parámetro nos indica la probabilidad de que una persona susceptibles resulte infectada.&lt;/li&gt;
+&lt;li&gt;$\gamma$ es la taza de recuperación. Este parámetro está dado por el tiempo promedio que tarda una persona en dejar de ser infecciosa y conseguir la inmunidad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Encontrar la solución al sistema de ecuaciones mencionado equivale a calcular el cumulativo de nuevos casos de infectados y recuperados que aparecen diariamente.&lt;/p&gt;
+&lt;p&gt;Hay un parámetro en epidemiología que nos marca la dinámica de la enfermedad y está asociado al poder reproductivo de la enfermedad. Este parámetro se le conoce como el &lt;em&gt;ritmo reproductivo básico&lt;/em&gt;, que para el modelo SIR está dado por:&lt;/p&gt;
+&lt;p&gt;$$R_0 = \frac{\beta}{\gamma},$$&lt;/p&gt;
+&lt;p&gt;Si $R_0 &amp;lt; 1$, la enfermedad muere después de un largo periodo. Si $R_0 &amp;gt; 1$, la infección puede llegar a propagarse ampliamente entre una población. El caso particular de $R_0 = 1$ indica que cada persona infectada va a contagiar a una sola persona&lt;/p&gt;
+&lt;h2 id=&#34;evolución-de-una-infección-de-acuerdo-con-el-modelo-sir&#34;&gt;Evolución de una infección de acuerdo con el modelo SIR&lt;/h2&gt;
+&lt;p&gt;Al resolver el sistema de ecuaciones descritos arriba, podemos estimar cómo será el comportamiento de la enfermedad en una población en particular a través de los días y predecir momentos clave de la infección. Como ejemplo tomaremos una población de 1000 individuos, de los cuales asumiremos que al día 0 tenemos 1 infectado.&lt;/p&gt;
+&lt;img src=&#34;featured.png&#34; alt=&#34;modelo sir&#34; width=&#34;600&#34;/&gt;
+&lt;p&gt;&lt;strong&gt;Figura&lt;/strong&gt;: Soluciones del modelo SIR para tres valores de $\beta$.&lt;/p&gt;
+&lt;p&gt;En este experimento hemos usado $\gamma = 10$ y $R_0 = 2, 3, 4$, que corresponden a $\beta = 0.2, 0.3, 0.4$ (líneas sólidas, discontinuas y de guiones y puntos). Las líneas de color rojo representan a la población de infectados. En este experimento hemos asumidos que los parámetros $\gamma$ y $R_0$ (o en su defecto $\beta$) son constantes en el tiempo.&lt;/p&gt;
+&lt;p&gt;Las etapas más importantes de la enfermedad vienen dados por las líneas rojas (individuos infectados). El punto máximo de estas líneas nos dicen cuál y cuándo será el máximo de infectados. El parámetro $\beta$, como hemos dicho antes, nos indica la probabilidad de un individuo sano pase a la población de infectados. Si, por ejemplo, un virus es altamente transmisible y desconocido como el SARS-CoV2, el valor de $\beta$ será alto si la población no toma medidas que reduzcan las probabilidades de entrar en contacto con el virus; en otras palabras, sin no se quedan en casa.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>La maldita primavera 2020</title>
+      <link>/post/lmprimavera/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/lmprimavera/</guid>
+      <description>&lt;p&gt;Las Doctoras Ana Valenzuela y Abigail Jiménez crearon esta serie de podcasts a propósito del COVID-19 en la cuarentena del 2020. El objetivo es la conversación, los comentarios y el debate sobre el COVID-19 desde diferentes miradas de las ciencias y la investigación.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ana G Valenzuela Zapata es la creadora de Agave Lessons and Mexican Gastronomy agavelessons.com consultora en agaves y salud.&lt;/li&gt;
+&lt;li&gt;Abigail Jiménez-Franco realiza una estancia posdoctoral en la Universidad de Barcelona en mineraloga a la nanoescala. Una cuarentena puede ser bien llevada si la comunicación es efectiva aún a distancia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Escuchalos en&lt;/strong&gt; &lt;a href=&#34;https://anchor.fm/anna-bruxelles&#34;&gt;La maldita primavera 2020&lt;/a&gt;.&lt;/p&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/10--Dra--Giaz-Enciso-Domnguez-Reflexiones-de-la-academia-neopatriarcal-y-el-covid-19-ed79n0/a-a1ptql&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/9--Dra--Guadalupe-Ramos-COVID-19-y-mujeres-en-Jalisco--Mxico-ed73pt/a-a1ptql&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/8--Un-vistazo-por-los-ensayos-clnicos-para-vacunas-y-medicinas-del-covid-19-Dra--Thamara-Jurez-ed32kv/a-a21abcl&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/7--Ileana-Gutierrez-Mtodos-de-diagnstico-COVID19-que-se-desarrollan-en-Mxico-ecqr0d/a-a1vvoej&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/6--Dras--Ana-Valenzuela-y-Thamara-Jurez--Estudios-clnicos-aprobados-en-Mxico-para-COVID19-Abril-10--2020-ece18t/a-a1ts2a6&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/5--Vacunas-y-anticuerpos-para-el-COVID-19--Dras--Ana-Valenzuela-y-Brenda-Medelln-Macromoletk-ecdv10/a-a1siqac&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/4--El-cuadrilatero-durante-covid-19-investigacin-mdica-y-opiniones-de-cientficos--Dras--Ana-Valenzuela-y-Abigail-Jimnez-ec8hlk/a-a1r7pga&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/3--Estrategias-y-tratamientos-contra-el-COVID-19-ec5hgf/a-a1ptql&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/2--Comentamos-sobre-tapabocas-y-desarrollo-de-medicamentos-de-COVID-19--Dras--Ana-Valenzuela-y-Abigail-Jimnez-ec3nmg/a-a1q5n96&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://anchor.fm/anna-bruxelles/embed/episodes/Primera-pltica-general-de-la-Maldita-Primavera-2020--Dras--Ana-Valenzuela-y-Abigail-Jimnez-ec0rkm/a-a1pmm7p&#34; height=&#34;200px&#34; width=&#34;100%&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
