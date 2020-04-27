@@ -460,7 +460,7 @@
 
     <div class="article-style" itemprop="articleBody">
       <h1 id="qué-es-el-modelo-sir">¿Qué es el modelo SIR?</h1>
-<p>Entender y predecir comportamiento de una epidemia es una de las cosas que le interesa conocer a la epidemiología. Existen distintas estrategias para conseguir entender esto. Una en particular es mediante el modelo matemático determinista desarrollado originalmente por <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118">Kermack y McKendrick (1927)</a>, el cual consiste en asumir que el comportamiento de las poblaciones susceptible a contagio ($S$), infectada ($I$) y recuperada ($R$), está dado por el siguiente sistema de ecuaciones diferenciales ordinarias:</p>
+<p>Entender y predecir el comportamiento de una epidemia es una de las cosas que le interesa conocer a la epidemiología. Existen distintas estrategias para conseguir entender esto. Una en particular es mediante el modelo matemático determinista desarrollado originalmente por <a href="https://royalsocietypublishing.org/doi/10.1098/rspa.1927.0118">Kermack y McKendrick (1927)</a>, el cual consiste en asumir que el comportamiento de la población susceptible a contagio ($S$), infectada ($I$) y recuperada ($R$), está dado por el siguiente sistema de ecuaciones diferenciales ordinarias:</p>
 <p>$$\begin{align}
 \dfrac{dS}{dt} &amp; = -\beta S I \<br>
 \dfrac{dI}{dt} &amp; = \beta S I - \lambda I \<br>
@@ -479,8 +479,8 @@
 <p>Al resolver el sistema de ecuaciones descritos arriba, podemos estimar cómo será el comportamiento de la enfermedad en una población en particular a través de los días y predecir momentos clave de la infección. Como ejemplo tomaremos una población de 1000 individuos, de los cuales asumiremos que al día 0 tenemos 1 infectado.</p>
 <img src="featured.png" alt="modelo sir" width="600"/>
 <p><strong>Figura</strong>: Soluciones del modelo SIR para tres valores de $\beta$.</p>
-<p>En este experimento hemos usado $\gamma = 10$ y $R_0 = 2, 3, 4$, que corresponden a $\beta = 0.2, 0.3, 0.4$ (líneas sólidas, discontinuas y de guiones y puntos). Las líneas de color rojo representan a la población de infectados. En este experimento hemos asumidos que los parámetros $\gamma$ y $R_0$ (o en su defecto $\beta$) son constantes en el tiempo.</p>
-<p>Las etapas más importantes de la enfermedad vienen dados por las líneas rojas (individuos infectados). El punto máximo de estas líneas nos dicen cuál y cuándo será el máximo de infectados. El parámetro $\beta$, como hemos dicho antes, nos indica la probabilidad de un individuo sano pase a la población de infectados. Si, por ejemplo, un virus es altamente transmisible y desconocido como el SARS-CoV2, el valor de $\beta$ será alto si la población no toma medidas que reduzcan las probabilidades de entrar en contacto con el virus; en otras palabras, sin no se quedan en casa.</p>
+<p>En este experimento hemos usado $\gamma = 10$ y $R_0 = 2, 3, 4$, que corresponden a $\beta = 0.2, 0.3, 0.4$ (líneas sólidas, discontinuas y de guiones y puntos, respectivamente). Las líneas de color rojo representan a la población de infectados. En este experimento hemos asumidos que los parámetros $\gamma$ y $R_0$ (o en su defecto $\beta$) son constantes en el tiempo.</p>
+<p>Las etapas más importantes de la enfermedad vienen dados por las líneas rojas (individuos infectados). El punto máximo de estas líneas nos dicen cuál y cuándo será el máximo de infectados. El parámetro $\beta$, como hemos dicho antes, nos indica la probabilidad de un individuo sano pase a la población de infectados. Si, por ejemplo, un virus es altamente transmisible y desconocido como el SARS-CoV2, el valor de $\beta$ será alto si la población no toma medidas que reduzcan las probabilidades de entrar en contacto con el virus; en otras palabras, si no se quedan en casa.</p>
 
     </div>
 
