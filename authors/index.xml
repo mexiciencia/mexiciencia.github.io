@@ -6,7 +6,7 @@
     <description>Recent content in Authors on Científicos Mexicanos en el Extranjero</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,23 +23,23 @@
     
     <item>
       <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Somos un grupo multidisciplinario de investigadores mexicanos realizando estancias de investigación en diferentes universidades internacionales, y colaboramos con diversos programas de posgrado en universidades y centros de investigación en México.&lt;/p&gt;
+&lt;p&gt;Nos encontramos en diferentes países, por supuesto México, varios países de Europa, como son España, Reino Unido, Portugal, Austria, Italia, Francia, además de colaboradores en EUA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/adan/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/authors/adan/</guid>
       <description>&lt;p&gt;I received the M.Sc. and Ph.D. degrees in computer science from the Center for Research and Advanced Studies of the National Polytechnic Institute (CINVESTAV-IPN), Mexico, in 2012 and 2017, respectively.&lt;/p&gt;
 &lt;p&gt;My main research interests involve the study and design of data clustering techniques based on nature-inspired metaheuristics and their applications to problems from areas such as digital image segmentation and machine learning. Recently, I have been focused on the development of a multiobjective evolutionary approach for multi-view data clustering and its application to a range of application domains, ranging from network analysis to medical imaging data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Somos un grupo multidisciplinario de investigadores mexicanos realizando estancias de investigación en diferentes universidades internacionales, y colaboramos con diversos programas de posgrado en universidades y centros de investigación en México.&lt;/p&gt;
-&lt;p&gt;Nos encontramos en diferentes países, por supuesto México, varios países de Europa, como son España, Reino Unido, Portugal, Austria, Italia, Francia, además de colaboradores en EUA.&lt;/p&gt;
 </description>
     </item>
     
