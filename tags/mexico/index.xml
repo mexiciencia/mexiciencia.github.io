@@ -49,7 +49,7 @@ Los datos recabados no se utilizarán con ningún otro propósito fuera del alca
       <guid>/post/covid19_report/</guid>
       <description>&lt;p&gt;Mapas interactivos de la evolución del brote epidémico COVID-19 en México por entidades.&lt;/p&gt;
 &lt;h2 id=&#34;1-mapa-interactivo&#34;&gt;1. Mapa interactivo&lt;/h2&gt;
-&lt;iframe width=&#34;900&#34; height=&#34;1220&#34; src=&#34;https://datastudio.google.com/embed/reporting/c2b622f7-ccb1-4af7-858b-0cdc9745f97f/page/zGEMB&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;
+&lt;iframe width=&#34;900&#34; height=&#34;1420&#34; src=&#34;https://datastudio.google.com/embed/reporting/c2b622f7-ccb1-4af7-858b-0cdc9745f97f/page/zGEMB&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;
 &lt;/iframe&gt;
 &lt;h2 id=&#34;2-mapa-de-dispersión&#34;&gt;2. Mapa de dispersión&lt;/h2&gt;
 &lt;div class=&#34;flourish-embed flourish-map&#34; data-src=&#34;visualisation/1971849&#34; data-url=&#34;https://flo.uri.sh/visualisation/1971849/embed&#34; data-width=&#34;105%&#34;&gt;&lt;script src=&#34;https://public.flourish.studio/resources/embed.js&#34;&gt;&lt;/script&gt;&lt;/div&gt;
