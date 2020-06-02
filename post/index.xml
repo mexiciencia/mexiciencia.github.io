@@ -6,10 +6,34 @@
     <description>Recent content in Listado de Posts on Científicos Mexicanos en el Extranjero</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Impacto de las Medidas de Control en la evolución del brote COVID-19🦠</title>
+      <link>/post/covid19-articulo/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/covid19-articulo/</guid>
+      <description>&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
+&lt;p&gt;En este artículo  presentamos un análisis sobre el impacto de las medidas de control en la evolución del brote COVID-19🦠 en los países: 🇪🇸🇨🇳🇦🇹🇩🇪🇵🇹🇮🇹🇫🇷🇬🇧🇲🇽. Las medidas de control estudiadas han variado tanto en la escala de severidad como en la temporalidad frente al brote epidémico en cada país. Estas variaciones en las medidas de control producen un efecto en la evolución de la tasa de contagio que se puede medir con la metodología que desarrollamos,  denominada &amp;ldquo;ajustes SIR dinámicos data-driven&amp;rdquo;. Los parámetros considerados en nuestro análisis y evaluación de las acciones realizadas en cada país son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Semana de llegada a la cumbre del brote epidémico.&lt;/li&gt;
+&lt;li&gt;Implementación oportuna y efectiva de las medidas de control.&lt;/li&gt;
+&lt;li&gt;Diseño de una estrategia respaldada por un sistema de salud fortalecido.&lt;/li&gt;
+&lt;li&gt;Letalidad de COVID-19  en el país en la fase de declive del brote.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De este análisis concluimos que la implementación oportuna o tardía de algunas medidas de control establecidas por los gobiernos tienen un impacto en la evolución, la intensidad y la duración del brote epidémico en cada país. Esto nos  permite entender en su justa dimensión el caso Mexicano y las medidas de control impuestas por la SSA.&lt;/p&gt;
+&lt;h2 id=&#34;contenido-del-artículo&#34;&gt;Contenido del artículo&lt;/h2&gt;
+&lt;object data=&#34;covid19_articulo.pdf&#34; type=&#34;application/pdf&#34; width=&#34;900px&#34; height=&#34;1200px&#34;&gt;
+    &lt;embed src=&#34;covid19_articulo.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;covid19_articulo.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+</description>
+    </item>
     
     <item>
       <title>Carta contra declaraciones de Javier Alatorre</title>
@@ -42,7 +66,7 @@ Los datos recabados no se utilizarán con ningún otro propósito fuera del alca
     </item>
     
     <item>
-      <title>Evolución del COVID-19 en México</title>
+      <title>Evolución del COVID-19🦠 en México🇲🇽</title>
       <link>/post/covid19_report/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
       
@@ -76,8 +100,8 @@ Los datos recabados no se utilizarán con ningún otro propósito fuera del alca
 \end{align}$$&lt;/p&gt;
 &lt;p&gt;donde $S + I + R = 1$. Estas ecuaciones representan el número de individuos por intervalo de tiempo en cada una de las poblaciones consideradas. El significado de cada parámetro corresponde a características particulares de la enfermedad:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;$\beta$ es la taza de infección. Este parámetro nos indica la probabilidad de que una persona susceptibles resulte infectada.&lt;/li&gt;
-&lt;li&gt;$\gamma$ es la taza de recuperación. Este parámetro está dado por el tiempo promedio que tarda una persona en dejar de ser infecciosa y conseguir la inmunidad.&lt;/li&gt;
+&lt;li&gt;$\beta$ es la tasa de infección. Este parámetro nos indica la probabilidad de que una persona susceptibles resulte infectada.&lt;/li&gt;
+&lt;li&gt;$\gamma$ es la tasa de recuperación. Este parámetro está dado por el tiempo promedio que tarda una persona en dejar de ser infecciosa y conseguir la inmunidad.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Encontrar la solución al sistema de ecuaciones mencionado equivale a calcular el cumulativo de nuevos casos de infectados y recuperados que aparecen diariamente.&lt;/p&gt;
 &lt;p&gt;Hay un parámetro en epidemiología que nos marca la dinámica de la enfermedad y está asociado al poder reproductivo de la enfermedad. Este parámetro se le conoce como el &lt;em&gt;ritmo reproductivo básico&lt;/em&gt;, que para el modelo SIR está dado por:&lt;/p&gt;

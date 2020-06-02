@@ -26,8 +26,8 @@
 \end{align}$$&lt;/p&gt;
 &lt;p&gt;donde $S + I + R = 1$. Estas ecuaciones representan el número de individuos por intervalo de tiempo en cada una de las poblaciones consideradas. El significado de cada parámetro corresponde a características particulares de la enfermedad:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;$\beta$ es la taza de infección. Este parámetro nos indica la probabilidad de que una persona susceptibles resulte infectada.&lt;/li&gt;
-&lt;li&gt;$\gamma$ es la taza de recuperación. Este parámetro está dado por el tiempo promedio que tarda una persona en dejar de ser infecciosa y conseguir la inmunidad.&lt;/li&gt;
+&lt;li&gt;$\beta$ es la tasa de infección. Este parámetro nos indica la probabilidad de que una persona susceptibles resulte infectada.&lt;/li&gt;
+&lt;li&gt;$\gamma$ es la tasa de recuperación. Este parámetro está dado por el tiempo promedio que tarda una persona en dejar de ser infecciosa y conseguir la inmunidad.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Encontrar la solución al sistema de ecuaciones mencionado equivale a calcular el cumulativo de nuevos casos de infectados y recuperados que aparecen diariamente.&lt;/p&gt;
 &lt;p&gt;Hay un parámetro en epidemiología que nos marca la dinámica de la enfermedad y está asociado al poder reproductivo de la enfermedad. Este parámetro se le conoce como el &lt;em&gt;ritmo reproductivo básico&lt;/em&gt;, que para el modelo SIR está dado por:&lt;/p&gt;
