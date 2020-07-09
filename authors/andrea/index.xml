@@ -7,9 +7,90 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-{year}</copyright>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/andrea/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Observando átomos con Criomicroscopía electrónica</title>
+      <link>/post/cryo-em/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cryo-em/</guid>
+      <description>&lt;p&gt;¡Ya tenemos las primeras fotos de átomos⚛ obtenidas con criomicroscopía electrónica🔬! Esto puede significar la siguiente gran revolución en la biología ¿Porqué?&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;d41586-020-01658-1_18045322.jpg&#34; alt=&#34;img&#34; style=&#34;width:100%&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;[Foto: Paul Emsley/MRC Laboratory of Molecular Biology]&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;La biología estructural se dedica a estudiar la distribución de los átomos dentro de las moléculas que participan en los procesos biológicos, así como los cambios conformacionales que sufren cuando interaccionan con otras moléculas o con diferentes copias de ellas mismas. Esto es fundamental para entender cómo funcionan las células. El primer gran hito de la biología estructural sucedió en 1951 cuando Linus Pauling publicó un modelo teórico de la hélice alfa de las proteínas, soportado en mucha imaginación y algunos datos empíricos (él mismo narró que la estructura vino a su mente mientras hacía papiroflexia). La hélice alfa es uno de los motivos de estructura secundaria más común en las proteínas y en ella los aminoácidos de la cadena polipeptídica se acomodan en forma de una “espiral escalonada” soportada por los puentes de hidrógeno formados entre un grupo carbonilo y un grupo amino del esqueleto polipeptídico.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;Screenshot 2020-07-05 11.59.26.png&#34; alt=&#34;img&#34; style=&#34;zoom:40%;&#34; /&gt;
+&lt;p&gt;&lt;em&gt;[Imagen hélice alfa 3Dciencia.com]&lt;/em&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;Inspirados en el trabajo de Pauling sobre hélices, Watson y Crick utilizaron el trabajo de Rosalind Franklin para proponer el modelo de la doble hélice del ADN. El descubrimiento de esta estructura 🧬 revolucionó la Biología 🌿 e hizo posible entender cómo se transmiten los genes de una célula a otra.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;pruebamicroscopio-sepia.jpg&#34; alt=&#34;img&#34; style=&#34;width:100%&#34; /&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;[Rosalind Franklin bb y su fotografía del DNA. Este año celebramos 100 años del nacimiento de esta extraordinaria científica]&lt;/em&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Poco tiempo después (1959) vino otra gran revolución en la Biología: se obtuvo por primera vez la estructura terciaria de una proteína. Las proteínas realizan casi todos los procesos biológicos y conocerlas a detalle ha significado comprender a detalle la vida (al menos en el sentido de los mecanismos moleculares que la hacen posible).&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;MFPL_maxperutz_9.jpg&#34; alt=&#34;img&#34; style=&#34;zoom:80%; display:block; margin-left:auto; margin-right: auto;&#34; /&gt;
+&lt;p&gt;&lt;em&gt;[Modelo de Max Perutz de la hemoglobina]&lt;/em&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;Obtener las “fotos” de la hemoglobina no fue tan fácil. Estas fotos se las debemos a una técnica llamada difracción de rayos X. ¡Con ella hemos observado componentes del átomo! Pero esta técnica tiene un problema: se necesita obtener un cristal de la macromolécula para obtener un patrón de difracción que nos revele información de la estructura. ¿Y qué es un cristal? Un cristal es un arreglo molecular con un patrón que se replica en las tres dimensiones. Por ejemplo, en la sal común, los iones de cloro y de sodio están distribuidos de forma ordenada y regular como las losas en un mosaico tridimensional.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;99e84686a2a3381cdbf8e264a8b94dd1a9c26f41.jpg&#34; alt=&#34;img&#34; style=&#34;zoom:33%&#34; /&gt;
+&lt;p&gt;&lt;em&gt;[© Thinkstock]&lt;/em&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;Un cristal de proteína debe conseguir el mismo ordenamiento pero con moléculas que son tres órdenes de magnitud más grandes que la sal, que tienen una forma mucho más irregular y cuyos enlaces poseen vibraciones y rotaciones que confieren a la molécula de mucha más movilidad. Encontrar las condiciones para obtenerlo puede tomar meses e incluso años.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;3-s2.0-B9780124172050000225-f22-04-9780124172050.jpg&#34; alt=&#34;img&#34; style=&#34;zoom:80%;&#34; /&gt;
+&lt;p&gt;&lt;em&gt;[Foto: ScienceDirect]&lt;/em&gt;&lt;/p&gt;
+&lt;/center&gt;
+Las “fotos” obtenida por la difracción de rayos X es la interpretación que hacemos del patrón de luz y sombras generado cuando los rayos X pasan a través del cristal. Esta técnica se ha usado para obtener el 89% de las estructuras que conocemos hasta ahora y depositadas en el Banco de Proteínas (Protein Data Bank). La otra técnica más utilizada hasta ahora para obtener estructuras de proteínas es la Resonancia Magnética Nuclear, pero esa es otra historia y será contada en otra ocasión. 
+&lt;center&gt;
+&lt;img src=&#34;rcsb-pdb.png&#34; alt=&#34;img&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;p&gt;&lt;em&gt;[Protein Data Bank]&lt;/em&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;Pero en 1997 se resolvió por primera vez la estructura de una proteína por una técnica nueva: Criomicroscopía Electrónica (Cryo-EM). En esta técnica no hace falta tener un cristal de proteína. La muestra se congela con nitrógeno líquido y se bombardea con electrones. Después se registra el choque de cada electrón en un sensor al rebotar en la muestra. Así como los murciélagos usan ondas de sonido para conocer el mundo, los electrones permiten reconstruir una imagen 2D de una molécula. Tomar varias “fotos” de la molécula en diferentes posiciones permite construir una imagen 3D.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;echolocation.jpg&#34; alt=&#34;img&#34; style=&#34;zoom:80%&#34; /&gt; 
+[Imagen ©Askabiologist]
+&lt;/center&gt;
+La mayor limitación de Cryo-EM era la resolución de la imagen formada, es decir, la capacidad de obtener la señal que proviene de la molécula y reducir la de los alrededores. Y también descartar la información de la molécula cuando es dañada por los electrones. La calidad de la foto de Cryo-EM depende de la información que podamos deducir de la trayectoria de cada electrón a partir de su choque contra el detector. Por eso es importante controlar hacia donde apuntamos los electrones y estar seguros que los choques que detectamos no dañaron la molécula. La dirección hacia la que la lente del microscopio redirige los electrones depende de la velocidad a la que los disparamos. Si lanzamos los electrones a la misma velocidad tendremos mayor seguridad de que son lanzados a la misma dirección que si los lanzamos con diferentes velocidades. Un ajuste importante para poder ver los átomos con Cryo-EM fue controlar con mayor exactitud la velocidad de los electrones pasando por la lente. Por otro lado, cuando un electrón daña una molécula cambia su velocidad, así que otro avance que nos ha permitido ver átomos, es evitar que los electrones con velocidad diferente a la original lleguen al detector.
+&lt;p&gt;&lt;img src=&#34;tem_magneticlens_vs_optical.png&#34; alt=&#34;img&#34; style=&#34;zoom:67%; float:left&#34; /&gt;
+[Foto:&lt;a href=&#34;https://t.co/pZfeR7QMOn?amp=1&#34;&gt; http://myscope.com&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Al conseguir observar átomos con Cryo-EM, se abren muchas posibilidades para estudiar moléculas dentro de la célula. Esta técnica nos ayudará a conocer con detalles el funcionamiento de las proteínas en un contexto celular: su interacción &lt;em&gt;in situ&lt;/em&gt; con otras moléculas que le permiten llevar a cabo su función biológica, la organización supramolecular de la maquinaria celular y especialmente, los mecanismos que provocan estados patológicos, lo que llevará la medicina molecular diseñar. &lt;br/&gt; &lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;Por ejemplo, la obtención por difracción de rayos X y por Cryo-EM de diferentes coformaciones de la estructura de la proteína que usa el SARS-CoV-2 para infectar las células, la Spike protein, está permitiendo la búsqueda racional de fármacos para combatir la enfermedad COVID-19. Ahora que se ha roto llegado a resolución atómica con Cryo-EM podremos obtener por ejemplo fotos atomísticas del virus completo infectando la célula.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src=&#34;F1.large.jpg&#34; alt=&#34;img&#34; style=&#34;zoom:40%&#34; /&gt;
+&lt;p&gt;&lt;em&gt;[Foto: ©Science]&lt;/em&gt;&lt;/p&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;strong&gt;Referencias:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://doi.org/10.1101/2020.05.21.106740&#34;&gt;https://doi.org/10.1101/2020.05.21.106740&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.05.21.106740v1&#34;&gt;https://www.biorxiv.org/content/10.1101/2020.05.21.106740v1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/d41586-020-01658-1&#34;&gt;https://www.nature.com/articles/d41586-020-01658-1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

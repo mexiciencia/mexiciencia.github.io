@@ -7,10 +7,34 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-{year}</copyright>
-    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/authors/rosamaria/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Impacto de las Medidas de Control en la evolución del brote COVID-19🦠</title>
+      <link>/post/covid19-articulo/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/covid19-articulo/</guid>
+      <description>&lt;h2 id=&#34;resumen&#34;&gt;Resumen&lt;/h2&gt;
+&lt;p&gt;En este artículo  presentamos un análisis sobre el impacto de las medidas de control en la evolución del brote COVID-19🦠 en los países: 🇪🇸🇨🇳🇦🇹🇩🇪🇵🇹🇮🇹🇫🇷🇬🇧🇲🇽. Las medidas de control estudiadas han variado tanto en la escala de severidad como en la temporalidad frente al brote epidémico en cada país. Estas variaciones en las medidas de control producen un efecto en la evolución de la tasa de contagio que se puede medir con la metodología que desarrollamos,  denominada &amp;ldquo;ajustes SIR dinámicos data-driven&amp;rdquo;. Los parámetros considerados en nuestro análisis y evaluación de las acciones realizadas en cada país son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Semana de llegada a la cumbre del brote epidémico.&lt;/li&gt;
+&lt;li&gt;Implementación oportuna y efectiva de las medidas de control.&lt;/li&gt;
+&lt;li&gt;Diseño de una estrategia respaldada por un sistema de salud fortalecido.&lt;/li&gt;
+&lt;li&gt;Letalidad de COVID-19  en el país en la fase de declive del brote.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De este análisis concluimos que la implementación oportuna o tardía de algunas medidas de control establecidas por los gobiernos tienen un impacto en la evolución, la intensidad y la duración del brote epidémico en cada país. Esto nos  permite entender en su justa dimensión el caso Mexicano y las medidas de control impuestas por la SSA.&lt;/p&gt;
+&lt;h2 id=&#34;contenido-del-artículo&#34;&gt;Contenido del artículo&lt;/h2&gt;
+&lt;object data=&#34;covid19_articulo.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;
+    &lt;embed src=&#34;covid19_articulo.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;covid19_articulo.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+</description>
+    </item>
     
     <item>
       <title>Medidas de control ante el brote COVID-19 y su impacto en la evolución del brote epidémico</title>
