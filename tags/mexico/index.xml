@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-{year}</copyright>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/mexico/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Carta CONACYT</title>
+      <link>/post/conacyt-extension/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/conacyt-extension/</guid>
+      <description>&lt;p&gt;En esta carta manifestamos nuestras inquietudes ante la crisis que como integrantes de esta comunidad científica estamos afrontando ante la falta de oportunidades y opciones laborales en México.&lt;/p&gt;
+&lt;p&gt;Esta situación se ha recrudecido debido a la pandemia por covid19 y estamos convencidos de que puede empeorar si no hacemos un frente común. Los invitamos a leer y a firmar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Los invitamos a firmar la carta en el siguien enlace&lt;/strong&gt;: &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSeFhqq9e77ZWwaRw_zI3ClDPUT91jxelcCdG5EPMoQmKwEo1g/viewform&#34; target=&#34;_blank&#34;&gt;Firmar carta en Google Forms&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;carta-dirigida-a-funcionarios-del-conacyt&#34;&gt;Carta dirigida a funcionarios del CONACyT:&lt;/h2&gt;
+&lt;object data=&#34;extension_beca_conacyt.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;1200px&#34;&gt;
+    &lt;embed src=&#34;extension_beca_conacyt.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;covid19_articulo.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+</description>
+    </item>
     
     <item>
       <title>Impacto de las Medidas de Control en la evolución del brote COVID-19🦠</title>
@@ -269,8 +287,8 @@ Es un parámetro social que considera cómo se transmite el COVID-19 y cómo pue
 &lt;img src=&#34;mexico_2.jpeg&#34; alt=&#34;imagen of mexico_2&#34;&gt;
 &lt;strong&gt;Figuras&lt;/strong&gt;: Análisis sobre el impacto de las medidas de control implementadas en &lt;strong&gt;MÉXICO&lt;/strong&gt; para tratar de mitigar el brote epidémico COVID-19.&lt;/p&gt;
 &lt;p&gt;En México en contraste con el resto de países que hemos analizado hasta el momento como son China, Italia, España, Reino  Unido,  Estados Unidos, demuestra haber preparado una estrategia con suficiente antelación ante la llegada del brote de COVID-19 al país y considerando las condiciones con las cuales debía hacer frente a la epidemia, contemplando indudablemente las características sociales, económicas y de su sistema de salud.&lt;/p&gt;
-&lt;p&gt;Diseñó muy bien una estrategia definida por Fase 1, 2 y 3. Dando inicio a la Fase 1 el día 23 de Enero , esto es 56 días antes del inicio del brote. Todas las medidas definidas e implementadas en la Fase 1 repercutieron positivamente para lograr mitigar la intensidad del brote esto, de acuerdo al los datos arrojados por el estudio lo podemos identificar en que el ajuste del parámetro de contacto efectivo es de beta=0.3 al inicio del brote, el cual es mucho menor al beta=0.4 reportado en las mediciones en China Italia y España. Al día 9-10 del inicio del brote comienza a vislumbrarse una inflexión en la curva a un  estado de menor crecimiento y su evolución responderá al impacto del correcto comportamiento de la ciudadanía y gobierno para acatar las medidas impuestas en fase 2.&lt;/p&gt;
-&lt;p&gt;Con la evolución a un mayor número de días será posible  medir el impacto de las medidas implementadas por la secretaría de salud y gobierno del día 24 de marzo con el inicio de la fase 2 y el día 30 de marzo con el cierre de centros de trabajo no esenciales. Se puede esperar que si la ciudadanía sigue las recomendaciones la tasa de contacto será mucho menor a 0.3 de no relajarse las medidas y aplicarse por el tiempo estimado por la secretaría de salud y gobierno.&lt;/p&gt;
+&lt;p&gt;Diseñó muy bien una estrategia definida por Fase 1, 2 y 3. Dando inicio a la Fase 1 el día 23 de Enero , esto es 56 días antes del inicio del brote. Todas las medidas definidas e implementadas en la Fase 1 repercutieron positivamente para lograr mitigar la intensidad del brote esto, de acuerdo al los datos arrojados por el estudio lo podemos identificar en que el ajuste del parámetro de contacto efectivo es de beta=0.3 al inicio del brote, el cual es mucho menor al beta=0.4 reportado en las mediciones en China Italia y España. Al día 9-10 del inicio del brote comienza a vislumbrarse una inflexión en la curva a un estado de menor crecimiento y su evolución responderá al impacto del correcto comportamiento de la ciudadanía y gobierno para acatar las medidas impuestas en fase 2.&lt;/p&gt;
+&lt;p&gt;Con la evolución a un mayor número de días será posible medir el impacto de las medidas implementadas por la secretaría de salud y gobierno del día 24 de marzo con el inicio de la fase 2 y el día 30 de marzo con el cierre de centros de trabajo no esenciales. Se puede esperar que si la ciudadanía sigue las recomendaciones la tasa de contacto será mucho menor a 0.3 de no relajarse las medidas y aplicarse por el tiempo estimado por la secretaría de salud y gobierno.&lt;/p&gt;
 &lt;p&gt;Consideramos que México ha diseñado una estrategia y se ha anticipado adecuadamente a la llegada del brote, iniciando una fuerte campaña de información 8 semanas previas al inicio del mismo. Se han difundido oportunamente recomendaciones sanitarias que incluyen medidas de higiene y de la jornada de sana distancia para disminuir la transmisión del virus. Además, las medidas más severas de limitación de la movilidad han sido aplicadas oportunamente en la fase previa al inicio del crecimiento acelerado del brote, también ya en la fase de crecimiento acelerado se han anunciado nuevas medidas que incluyen el cierre  de centros de trabajo no esenciales hasta el 30 de abril. Podemos esperar que si no se relajan estas medidas y son  adoptadas por la mayoría de los habitantes del país se logre reducir sustancialmente la tasa de contagio efectiva en las próximas semanas. Esta semana será clave para valorar el impacto de las medidas pero los resultados preliminares parecen prometedores. En la figura mostramos dos proyecciones en 2 escenarios diferentes un escenario donde se tiene una mitigación efectiva que seguiría la trayectoria de países como China y un escenario menos prometedor donde la tasa de contagio decrece como Italia. Estas predicciones también las iremos actualizando.&lt;/p&gt;
 &lt;h3 id=&#34;colaboradores-en-este-trabajo&#34;&gt;Colaboradores en este trabajo&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Coordinadores&lt;/strong&gt;: Rosa María Vargas-Magaña (U. de Edimburgo), Sebastien Fromenteau (ICF-UNAM), Mariana Vargas-Magaña (IF-UNAM), Adán José-García y Jesús Misráyim Rueda Becerril.&lt;/p&gt;
