@@ -7,24 +7,24 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-{year}</copyright>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CONACyT</title>
-      <link>/tags/conacyt/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Comunicado</title>
+      <link>/tags/comunicado/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/conacyt/</guid>
+      <guid>/tags/comunicado/</guid>
       <description></description>
     </item>
     
     <item>
       <title>México</title>
       <link>/tags/mexico/</link>
-      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/mexico/</guid>
       <description></description>
@@ -63,6 +63,15 @@
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/fakenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CONACyT</title>
+      <link>/tags/conacyt/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/conacyt/</guid>
       <description></description>
     </item>
     
