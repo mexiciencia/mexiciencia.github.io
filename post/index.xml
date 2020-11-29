@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Listado de Posts on Científicos Mexicanos en el Extranjero</title>
+    <title>Listado de Posts on Científicæs Mexicanæs en el Extranjero</title>
     <link>/post/</link>
-    <description>Recent content in Listado de Posts on Científicos Mexicanos en el Extranjero</description>
+    <description>Recent content in Listado de Posts on Científicæs Mexicanæs en el Extranjero</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019-{year}</copyright>
@@ -56,12 +56,12 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;d41586-020-01658-1_18045322.jpg&#34; alt=&#34;img&#34; style=&#34;width:100%&#34; /&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;d41586-020-01658-1_18045322.jpg&#34; alt=&#34;img&#34; style=&#34;width:100%&#34; /&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;em&gt;[Foto: Paul Emsley/MRC Laboratory of Molecular Biology]&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;em&gt;[Foto: Paul Emsley/MRC Laboratory of Molecular Biology]&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -74,12 +74,12 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;&lt;img src=&#34;pruebamicroscopio-sepia.jpg&#34; alt=&#34;img&#34; style=&#34;width:100%&#34; /&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;pruebamicroscopio-sepia.jpg&#34; alt=&#34;img&#34; style=&#34;width:100%&#34; /&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;&lt;em&gt;[Rosalind Franklin bb y su fotografía del DNA. Este año celebramos 100 años del nacimiento de esta extraordinaria científica]&lt;/em&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;em&gt;[Rosalind Franklin bb y su fotografía del DNA. Este año celebramos 100 años del nacimiento de esta extraordinaria científica]&lt;/em&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
